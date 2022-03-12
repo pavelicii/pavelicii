@@ -6,7 +6,7 @@
 :bookmark_tabs: [**CV**](https://drive.google.com/file/d/1G_2FObq-Wo_f67iCiSIiF7XwmUrAG3VY/view?usp=sharing)
 
 <p align="left">
-<a href="mailto:pavelnazimok@gmail.com" style="text-decoration:none" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/mail.svg" alt="mail" height="30" width="40"/>
+<a href="mailto:pavelnazimok@gmail.com" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/mail.svg" alt="mail" height="30" width="40"/>
 <a href="https://linkedin.com/in/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8356662" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
 <a href="https://twitter.com/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/twitter.svg" alt="twitter" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 <a href="https://fb.com/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
-## Skills
+## :hammer_and_wrench: Skills
 
 **Languages:**\
 ![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
@@ -52,7 +52,7 @@
 ![](https://img.shields.io/static/v1?message=Circle%20CI&logo=circleci&labelColor=5c5c5c&color=72372c&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Jenkins&logo=jenkins&labelColor=5c5c5c&color=72372c&logoColor=white&label=%20)
 
-## Pinned Projects
+## :briefcase: Projects
 
 <a href="https://github.com/pavelicii/allpairs4j">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavelicii&repo=allpairs4j&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
