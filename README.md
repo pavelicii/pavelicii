@@ -2,16 +2,17 @@
 
 :man_technologist: My name is Pavel Nazimok and I'm a QA Automation Engineer / SDET.
 
-<p align="left">
-You can find me on:
-<a href="https://linkedin.com/in/pavelicii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavelicii" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8356662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8356662" height="30" width="40" /></a>
-<a href="https://twitter.com/pavelicii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavelicii" height="30" width="40" /></a>
-<a href="https://instagram.com/pavelicii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavelicii" height="30" width="40" /></a>
-<a href="https://fb.com/pavelicii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavelicii" height="30" width="40" /></a>
-</p>
+:globe_with_meridians: [**Personal website**](https://pavelicii.github.io/) \
+:bookmark_tabs: [**CV**](https://drive.google.com/file/d/1G_2FObq-Wo_f67iCiSIiF7XwmUrAG3VY/view?usp=sharing)
 
-Or simply drop me an e-mail: :email: **pavelnazimok@gmail.com**
+<p align="left">
+<a href="mailto:pavelnazimok@gmail.com" style="text-decoration:none" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/mail.svg" alt="mail" height="30" width="40"/>
+<a href="https://linkedin.com/in/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8356662" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
+<a href="https://twitter.com/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://fb.com/pavelicii" target="_blank"><img align="center" src="https://github.com/pavelicii/pavelicii/blob/master/assets/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
 
 ## Skills
 
@@ -51,9 +52,20 @@ Or simply drop me an e-mail: :email: **pavelnazimok@gmail.com**
 ![](https://img.shields.io/static/v1?message=Circle%20CI&logo=circleci&labelColor=5c5c5c&color=72372c&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Jenkins&logo=jenkins&labelColor=5c5c5c&color=72372c&logoColor=white&label=%20)
 
-## Personal Website
+## Pinned Projects
 
-For more info about me feel free to check my website:
-:diamond_shape_with_a_dot_inside: [**pavelicii.github.io**](https://pavelicii.github.io/)
+<a href="https://github.com/pavelicii/allpairs4j">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavelicii&repo=allpairs4j&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-![](https://komarev.com/ghpvc/?username=pavelicii&style=flat-square&color=green)
+<a href="https://github.com/pavelicii/pavelicii.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavelicii&repo=pavelicii.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/pavelicii/java-web-test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavelicii&repo=java-web-test&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/pavelicii/android-ui-testing-features">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavelicii&repo=android-ui-testing-features&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
