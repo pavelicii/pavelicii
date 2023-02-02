@@ -17,13 +17,15 @@
 ## :hammer_and_wrench: Skills
 
 **Languages:**\
-![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Java&logo=openjdk&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=C%23&logo=sharp&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Kotlin&logo=kotlin&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Scala&logo=scala&labelColor=5c5c5c&color=2cbb89&logoColor=white&label=%20) \
 **Test Automation Frameworks:**\
 ![](https://img.shields.io/badge/REST%20Assured-ada5e5)
+![](https://img.shields.io/badge/Playwright-ada5e5)
 ![](https://img.shields.io/badge/Selenium-ada5e5)
 ![](https://img.shields.io/badge/Selenide-ada5e5)
 ![](https://img.shields.io/badge/Selenoid-ada5e5)
